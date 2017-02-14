@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:AccessRelationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="crud" id="708">
+  <source xsi:type="archimate:BusinessProcess" href="../../../business/2966482c/580.xml#580"/>
+  <target xsi:type="archimate:BusinessObject" href="../../../business/3eb047a9/673.xml#673"/>
+</archimate:AccessRelationship>

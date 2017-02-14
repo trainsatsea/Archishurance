@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:FlowRelationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="Electronic Contracts" id="1622">
+  <source xsi:type="archimate:BusinessActor" href="../../../business/fa63373b/352.xml#352"/>
+  <target xsi:type="archimate:BusinessActor" href="../../../business/fa63373b/289.xml#289"/>
+</archimate:FlowRelationship>

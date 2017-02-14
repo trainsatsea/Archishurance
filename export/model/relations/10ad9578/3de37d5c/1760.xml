@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:FlowRelationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="contract info." id="1760">
+  <source xsi:type="archimate:BusinessFunction" href="../../../business/403e5717/483.xml#483"/>
+  <target xsi:type="archimate:BusinessFunction" href="../../../business/403e5717/495.xml#495"/>
+</archimate:FlowRelationship>
